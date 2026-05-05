@@ -156,9 +156,3 @@ Verification thresholds (adjustable):
 > Koch, G., Zemel, R., & Salakhutdinov, R. (2015).  
 > *Siamese Neural Networks for One-shot Image Recognition.*  
 > ICML Deep Learning Workshop.
-
----
-
-## License
-
-MIT
